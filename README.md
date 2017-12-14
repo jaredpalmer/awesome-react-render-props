@@ -35,5 +35,5 @@ Awesome list of React components with render props and resources.
 
 ### Misc
 
-- [react-fns](https://github.com/jaredpalmer/fns): Browser API's turned into declarative React components and HoC's
+- [react-fns](https://github.com/jaredpalmer/react-fns): Browser API's turned into declarative React components and HoC's
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
