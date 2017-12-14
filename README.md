@@ -14,7 +14,7 @@ Awesome list of React components with render props
 
 ## Forms
 
-- [Formik](https://github.com/jaredpalmer/formik): Forms in React, without tears😭
+- [Formik](https://github.com/jaredpalmer/formik): Forms in React, without tears 😭
 - [React Final Form](https://github.com/erikas/react-final-form): 🏁 High performance subscription-based form state management for React
 
 
