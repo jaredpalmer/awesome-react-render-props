@@ -9,7 +9,8 @@ Awesome list of React components with render props
 
 ## Inputs
 
-- [downshift](https://github.com/paypal/downshift): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [Downshift](https://github.com/paypal/downshift): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [react-toggled](https://github.com/kentcdodds/react-toggled): Component to build simple, flexible, and accessible toggle components
 
 ## Forms
 
