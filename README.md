@@ -25,7 +25,7 @@ Awesome list of React components with render props and resources.
 ### Forms
 
 - [Formik](https://github.com/jaredpalmer/formik): Forms in React, without tears 😭
-- [React Final Form](https://github.com/erikas/react-final-form): 🏁 High performance subscription-based form state management for React
+- [React Final Form](https://github.com/final-form/react-final-form): 🏁 High performance subscription-based form state management for React
 - [Informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state changes for the Form and Field. Also first-class support for re-usable FieldWraps
 
 ### Inputs
