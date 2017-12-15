@@ -11,6 +11,7 @@ Awesome list of React components with render props and resources.
 ## Blog Posts / Articles
 
 - [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) by @mjackson
+- [Query Components with Apollo](https://dev-blog.apollodata.com/query-components-with-apollo-ec603188c157) by Kureev Alexey
 
 ## Components
 
