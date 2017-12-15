@@ -40,3 +40,8 @@ Awesome list of React components with render props and resources.
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
 - [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide ```value``` and ```onChange``` props with state.
 - [react-redux-local](https://github.com/imflavio/react-redux-local): Simple local reducer with middleware/sagas/redux-dev-tools support.
+
+### React Native
+
+- [react-native-responsive-image-view](https://github.com/wKovacs64/react-native-responsive-image-view): React Native component for scaling an Image within the parent View
+
