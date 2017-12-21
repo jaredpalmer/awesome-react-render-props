@@ -41,6 +41,9 @@ Awesome list of React components with render props and resources.
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
 - [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide ```value``` and ```onChange``` props with state.
 - [react-redux-local](https://github.com/imflavio/react-redux-local): Simple local reducer with middleware/sagas/redux-dev-tools support.
+- [react-powerplug](https://github.com/renatorib/react-powerplug): Renderless Pluggable State Containers
+- [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
+- [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image): React component for progressive image loading
 
 ### React Native
 
