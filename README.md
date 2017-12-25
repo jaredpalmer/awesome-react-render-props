@@ -7,6 +7,7 @@ Awesome list of React components with render props and resources.
 ## Videos
 
 -  [The State of Animation in React](https://www.youtube.com/watch?v=1tavDv5hXpo) by @chenglou
+-  [Use Render Props with React](https://egghead.io/lessons/react-use-render-props-with-react) by @kentcdodds
 
 ## Blog Posts / Articles
 
@@ -48,4 +49,3 @@ Awesome list of React components with render props and resources.
 ### React Native
 
 - [react-native-responsive-image-view](https://github.com/wKovacs64/react-native-responsive-image-view): React Native component for scaling an Image within the parent View
-
