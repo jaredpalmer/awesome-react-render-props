@@ -19,6 +19,7 @@ Awesome list of React components with render props and resources.
 ### Animation
 
 - [react-motion](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
+- [react-prop-transition](https://github.com/imranolas/react-prop-transition): Transition _almost_ any value over time.
 
 ### Routing
 
