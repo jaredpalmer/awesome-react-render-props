@@ -46,6 +46,7 @@ Awesome list of React components with render props and resources.
 - [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
 - [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image): React component for progressive image loading
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
+- [react-device-battery](https://github.com/zanonnicola/react-device-battery): 🔋 Notifies your React App of the device battery status
 
 ### React Native
 
