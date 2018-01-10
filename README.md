@@ -45,6 +45,7 @@ Awesome list of React components with render props and resources.
 - [react-powerplug](https://github.com/renatorib/react-powerplug): Renderless Pluggable State Containers
 - [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
 - [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image): React component for progressive image loading
+- [holen](https://github.com/tkh44/holen): Declarative fetch for React
 
 ### React Native
 
