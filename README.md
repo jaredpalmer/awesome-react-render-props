@@ -7,12 +7,14 @@ Awesome list of React components with render props and resources.
 ## Videos
 
 -  [The State of Animation in React](https://www.youtube.com/watch?v=1tavDv5hXpo) by @chenglou
--  [Use Render Props with React](https://egghead.io/lessons/react-use-render-props-with-react) by @kentcdodds
+-  [Use Render Props with React](https://egghead.io/lessons/react-use-render-props-with-react) by [@kentcdodds](https://twitter.com/kentcdodds)
 
 ## Blog Posts / Articles
 
 - [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) by @mjackson
 - [Query Components with Apollo](https://dev-blog.apollodata.com/query-components-with-apollo-ec603188c157) by Kureev Alexey
+- [Testing ⚛️ components using render props](https://blog.kentcdodds.com/5623ab1814c) by [@kentcdodds](https://twitter.com/kentcdodds)
+- [How to give rendering control to users with prop getters](https://blog.kentcdodds.com/549eaef76acf) by [@kentcdodds](https://twitter.com/kentcdodds)
 
 ## Components
 
