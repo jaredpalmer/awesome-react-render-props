@@ -31,7 +31,7 @@ Awesome list of React components with render props and resources.
 
 - [Formik](https://github.com/jaredpalmer/formik): Forms in React, without tears 😭
 - [React Final Form](https://github.com/final-form/react-final-form): 🏁 High performance subscription-based form state management for React
-- [Informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state 
+- [Informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state
 changes for the Form and Field. Also first-class support for re-usable FieldWraps
 - [React Form](https://github.com/react-tools/react-form): Simple, powerful, highly composable forms in React
 
@@ -51,6 +51,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
 - [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image): React component for progressive image loading
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
+- [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
 
 ### React Native
 
