@@ -36,7 +36,7 @@ Awesome list of React components with render props and resources.
 - [Formik](https://github.com/jaredpalmer/formik): Forms in React, without tears 😭
 - [React Final Form](https://github.com/final-form/react-final-form): 🏁 High performance subscription-based form state management for React
 - [React Attire](https://github.com/gianmarcotoso/react-attire): Minimal state manager that simplifies React form handling
-- [Informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state 
+- [Informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state
 changes for the Form and Field. Also first-class support for re-usable FieldWraps
 - [React Form](https://github.com/react-tools/react-form): Simple, powerful, highly composable forms in React
 
@@ -59,6 +59,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
 - [react-device-battery](https://github.com/zanonnicola/react-device-battery): 🔋 Notifies your React App of the device battery status
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
+- [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
 
 ### React Native
 
