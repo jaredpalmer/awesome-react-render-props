@@ -42,7 +42,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 
 ### Inputs
 
-- [Downshift](https://github.com/paypal/downshift): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [Downshift](https://github.com/paypal/downshift): 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [react-toggled](https://github.com/kentcdodds/react-toggled): Component to build simple, flexible, and accessible toggle components
 - [@navjobs/upload](https://github.com/navjobs/upload): Higher order React components for file uploading (with progress) react file upload
 - [Dayzed](https://github.com/deseretdigital/dayzed): Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
@@ -51,7 +51,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 
 - [react-fns](https://github.com/jaredpalmer/react-fns): Browser API's turned into declarative React components and HoC's
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
-- [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide ```value``` and ```onChange``` props with state.
+- [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide `value` and `onChange` props with state.
 - [react-redux-local](https://github.com/imflavio/react-redux-local): Simple local reducer with middleware/sagas/redux-dev-tools support.
 - [react-powerplug](https://github.com/renatorib/react-powerplug): Renderless Pluggable State Containers
 - [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
