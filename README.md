@@ -60,6 +60,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-device-battery](https://github.com/zanonnicola/react-device-battery): 🔋 Notifies your React App of the device battery status
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
 - [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
+- [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
 
 ### React Native
 
