@@ -23,6 +23,9 @@ Awesome list of React components with render props and resources.
 - [react-motion](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
 - [react-move](https://github.com/react-tools/react-move): Beautiful, data-driven animations for React
 
+### Interaction
+- [react-dragtastic](https://github.com/chrisjpatty/react-dragtastic): Declarative drag-and-drop for React
+
 ### Routing
 
 - [react-router](https://github.com/reacttraining/react-router): Declarative routing for React
