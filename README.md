@@ -40,6 +40,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [Downshift](https://github.com/paypal/downshift): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [react-toggled](https://github.com/kentcdodds/react-toggled): Component to build simple, flexible, and accessible toggle components
 - [@navjobs/upload](https://github.com/navjobs/upload): Higher order React components for file uploading (with progress) react file upload
+- [Dayzed](https://github.com/deseretdigital/dayzed): Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 
 ### Misc
 
