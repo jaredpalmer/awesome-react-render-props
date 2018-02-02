@@ -48,6 +48,12 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [@navjobs/upload](https://github.com/navjobs/upload): Higher order React components for file uploading (with progress) react file upload
 - [Dayzed](https://github.com/deseretdigital/dayzed): Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 
+### Data
+
+- [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
+- [holen](https://github.com/tkh44/holen): Declarative fetch for React
+- [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
+
 ### Misc
 
 - [react-fns](https://github.com/jaredpalmer/react-fns): Browser API's turned into declarative React components and HoC's
@@ -57,9 +63,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-powerplug](https://github.com/renatorib/react-powerplug): Renderless Pluggable State Containers
 - [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
 - [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image): React component for progressive image loading
-- [holen](https://github.com/tkh44/holen): Declarative fetch for React
 - [react-device-battery](https://github.com/zanonnicola/react-device-battery): 🔋 Notifies your React App of the device battery status
-- [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
 - [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
 - [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
