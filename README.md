@@ -66,6 +66,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-device-battery](https://github.com/zanonnicola/react-device-battery): 🔋 Notifies your React App of the device battery status
 - [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
 - [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
+- [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
 
 ### React Native
