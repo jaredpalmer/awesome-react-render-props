@@ -69,6 +69,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
 - [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
+- [render-props-compose](https://github.com/gnapse/render-props-compose): Compose several nested render prop components into one
 
 ### React Native
 
