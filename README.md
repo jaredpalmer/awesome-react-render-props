@@ -53,6 +53,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
+- [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 
 ### Misc
 
@@ -68,6 +69,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
 - [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
+- [render-props-compose](https://github.com/gnapse/render-props-compose): Compose several nested render prop components into one
 - [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
 
 ### React Native
