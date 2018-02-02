@@ -68,6 +68,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
 - [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
+- [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
 
 ### React Native
 
