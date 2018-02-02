@@ -53,6 +53,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
+- [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 
 ### Misc
 
