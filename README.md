@@ -54,6 +54,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
+- [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
 
 ### Misc
 
@@ -71,6 +72,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
 - [render-props-compose](https://github.com/gnapse/render-props-compose): Compose several nested render prop components into one
 - [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
+- [react-geolocation](https://github.com/tkh44/react-geolocation): Declarative geolocation in React
 
 ### React Native
 
