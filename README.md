@@ -74,6 +74,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
 - [react-gizmo](https://github.com/KadoBOT/react-gizmo): UI Finite State Machine for React
 - [react-geolocation](https://github.com/tkh44/react-geolocation): Declarative geolocation in React
+- [react-composer](https://github.com/jmeas/react-composer): Compose render prop components
 
 ### React Native
 
