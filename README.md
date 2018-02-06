@@ -31,6 +31,7 @@ Awesome list of React components with render props and resources.
 ### Routing
 
 - [react-router](https://github.com/reacttraining/react-router): Declarative routing for React
+- [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
 
 ### Forms
 
