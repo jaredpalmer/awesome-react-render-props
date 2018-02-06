@@ -82,3 +82,4 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 ### React Native
 
 - [react-native-responsive-image-view](https://github.com/wKovacs64/react-native-responsive-image-view): React Native component for scaling an Image within the parent View
+- [react-native-sideswipe](https://github.com/kkemple/react-native-sideswipe): React Native cross-platform carousel component based on FlatList
