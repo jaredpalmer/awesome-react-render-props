@@ -78,6 +78,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-geolocation](https://github.com/tkh44/react-geolocation): Declarative geolocation in React
 - [react-composer](https://github.com/jmeas/react-composer): Compose render prop components
 - [react-sentinel](https://github.com/YurkaninRyan/react-sentinel): Abstracts away requestAnimationFrame, allowing you to poll anything for props
+- [react-albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards).
 
 ### React Native
 
