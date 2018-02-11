@@ -8,6 +8,7 @@ Awesome list of React components with render props and resources.
 
 -  [The State of Animation in React](https://www.youtube.com/watch?v=1tavDv5hXpo) by [Cheng Lou](https://twitter.com/_chenglou)
 -  [Use Render Props with React](https://egghead.io/lessons/react-use-render-props-with-react) by [Kent C. Dodds](https://twitter.com/kentcdodds)
+-  [Refactor a HoC to a Render Prop Component](https://egghead.io/lessons/react-refactor-a-higher-order-component-to-a-render-prop-component)
 
 ## Blog Posts / Articles
 
