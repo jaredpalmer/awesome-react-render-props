@@ -16,6 +16,7 @@ Awesome list of React components with render props and resources.
 - [Query Components with Apollo](https://dev-blog.apollodata.com/query-components-with-apollo-ec603188c157) by [Kureev Alexey](https://twitter.com/kureevalexey)
 - [Testing ⚛️ components using render props](https://blog.kentcdodds.com/5623ab1814c) by [Kent C. Dodds](https://twitter.com/kentcdodds)
 - [How to give rendering control to users with prop getters](https://blog.kentcdodds.com/549eaef76acf) by [Kent C. Dodds](https://twitter.com/kentcdodds)
+- [React’s ⚛️ new Context API](https://medium.com/dailyjs/reacts--new-context-api-70c9fe01596b) (uses a render prop, includes handy examples) by [Kent C. Dodds](https://twitter.com/kentcdodds)
 
 ## Components
 
