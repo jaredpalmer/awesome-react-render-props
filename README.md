@@ -80,6 +80,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-sentinel](https://github.com/YurkaninRyan/react-sentinel): Abstracts away requestAnimationFrame, allowing you to poll anything for props
 - [react-albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards).
 - [react-pro-metronome](https://github.com/rigobauer/react-pro-metronome): React component for creating your own metronome
+- [react-with-async-fonts](https://github.com/sergeybekrin/react-with-async-fonts): Module for dealing with custom web fonts
 
 ### React Native
 
