@@ -50,6 +50,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-toggled](https://github.com/kentcdodds/react-toggled): Component to build simple, flexible, and accessible toggle components
 - [@navjobs/upload](https://github.com/navjobs/upload): Higher order React components for file uploading (with progress) react file upload
 - [Dayzed](https://github.com/deseretdigital/dayzed): Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
+- [react-compound-slider](https://github.com/sghall/react-compound-slider): React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
 
 ### Data
 
