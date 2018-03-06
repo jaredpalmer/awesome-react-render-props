@@ -33,6 +33,7 @@ Awesome list of React components with render props and resources.
 ### Interaction
 
 - [react-dragtastic](https://github.com/chrisjpatty/react-dragtastic): Declarative drag-and-drop for React
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd): Beautiful, accessible drag and drop for lists with React
 
 ### Routing
 
