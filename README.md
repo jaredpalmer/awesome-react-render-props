@@ -66,6 +66,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 - [statty](https://github.com/vesparny/statty): A tiny and unobtrusive state management library for React and Preact apps
 - [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
+- [react-senna](https://github.com/collardeau/react-senna): A store component to quickly initiate state and update handlers
 
 ### Misc
 
