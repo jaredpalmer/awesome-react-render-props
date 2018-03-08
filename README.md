@@ -48,6 +48,7 @@ Awesome list of React components with render props and resources.
 - [Informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state
 changes for the Form and Field. Also first-class support for re-usable FieldWraps
 - [React Form](https://github.com/react-tools/react-form): Simple, powerful, highly composable forms in React
+- [react-uncontrolled-form](https://github.com/ericvaladas/react-uncontrolled-form): Forms with validation using uncontrolled fields in React
 
 ### Inputs
 
