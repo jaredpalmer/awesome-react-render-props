@@ -71,6 +71,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 
 ### Misc
 
+- [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel): React Carousel Component
 - [react-fns](https://github.com/jaredpalmer/react-fns): Browser API's turned into declarative React components and HoC's
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
 - [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide `value` and `onChange` props with state.
