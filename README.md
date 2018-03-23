@@ -95,6 +95,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-with-async-fonts](https://github.com/sergeybekrin/react-with-async-fonts): Module for dealing with custom web fonts
 - [@tedconf/react-show-more](https://github.com/tedconf/react-show-more): A Unopinionated component to handle showing more items
 - [react-treefold](https://github.com/gnapse/react-treefold): A renderless tree component for your hierarchical React views
+- [@danwang/retainer](https://github.com/danwang/retainer): Compose render prop components by lifting computation into containers
 
 ### React Native
 
