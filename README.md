@@ -68,6 +68,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [statty](https://github.com/vesparny/statty): A tiny and unobtrusive state management library for React and Preact apps
 - [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
 - [react-senna](https://github.com/collardeau/react-senna): A store component to quickly initiate state and update handlers
+- [constate](https://github.com/diegohaz/constate): React context + state = constate
 
 ### Misc
 
