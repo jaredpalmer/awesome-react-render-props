@@ -97,6 +97,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [@tedconf/react-show-more](https://github.com/tedconf/react-show-more): A Unopinionated component to handle showing more items
 - [react-treefold](https://github.com/gnapse/react-treefold): A renderless tree component for your hierarchical React views
 - [@danwang/retainer](https://github.com/danwang/retainer): Compose render prop components by lifting computation into containers
+- [react-google-calendar-events-list](https://github.com/VinSpee/react-gcal-events-list): React component which retrieves events from a google calendar.
 
 ### React Native
 
