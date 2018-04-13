@@ -29,6 +29,7 @@ Awesome list of React components with render props and resources.
 - [react-move](https://github.com/react-tools/react-move): Beautiful, data-driven animations for React
 - [react-prop-transition](https://github.com/imranolas/react-prop-transition): Transition _almost_ any value over time.
 - [react-morph](https://github.com/brunnolou/react-morph): Morphing Ui transitions made simple
+- [react-spring](https://github.com/drcmda/react-spring): 🙌 Helping react-motion and animated to become best friends 
 
 ### Interaction
 
