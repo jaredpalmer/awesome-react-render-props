@@ -70,6 +70,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
 - [react-senna](https://github.com/collardeau/react-senna): A store component to quickly initiate state and update handlers
 - [constate](https://github.com/diegohaz/constate): React context + state = constate
+- [react-whisper ☝️😮](https://github.com/arturkulig/react-whisper): Store, Reducer and Actor components for app-wide state management
 
 ### Misc
 
