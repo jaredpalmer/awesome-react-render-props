@@ -61,6 +61,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 
 ### Data
 
+- [react-apollo](https://github.com/apollographql/react-apollo): ♻️ React integration for Apollo Client
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
 - [react-request](https://github.com/jmeas/react-request): Declarative HTTP requests for React with request deduplication and response caching
