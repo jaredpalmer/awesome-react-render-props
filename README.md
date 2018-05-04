@@ -29,7 +29,7 @@ Awesome list of React components with render props and resources.
 - [react-move](https://github.com/react-tools/react-move): Beautiful, data-driven animations for React
 - [react-prop-transition](https://github.com/imranolas/react-prop-transition): Transition _almost_ any value over time.
 - [react-morph](https://github.com/brunnolou/react-morph): Morphing Ui transitions made simple
-- [react-spring](https://github.com/drcmda/react-spring): 🙌 Helping react-motion and animated to become best friends 
+- [react-spring](https://github.com/drcmda/react-spring): 🙌 Helping react-motion and animated to become best friends
 
 ### Interaction
 
@@ -102,6 +102,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [@danwang/retainer](https://github.com/danwang/retainer): Compose render prop components by lifting computation into containers
 - [react-google-calendar-events-list](https://github.com/VinSpee/react-gcal-events-list): React component which retrieves events from a google calendar.
 - [react-adopt](https://github.com/pedronauck/react-adopt): 😎 Compose render props components like a pro.
+- [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props" 🕶
 
 ### React Native
 
