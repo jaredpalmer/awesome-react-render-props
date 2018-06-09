@@ -104,6 +104,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-adopt](https://github.com/pedronauck/react-adopt): 😎 Compose render props components like a pro.
 - [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props" 🕶
 - [react-render-fam](https://github.com/danieldelcore/react-render-fam): Lit components for conditional rendering in React
+- [react-power-picture](https://github.com/tvthatsme/react-power-picture): Progressively load an image srcset for maximum responsiveness and performance
 
 ### React Native
 
