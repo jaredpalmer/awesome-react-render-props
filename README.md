@@ -58,6 +58,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [@navjobs/upload](https://github.com/navjobs/upload): Higher order React components for file uploading (with progress) react file upload
 - [Dayzed](https://github.com/deseretdigital/dayzed): Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
 - [react-compound-slider](https://github.com/sghall/react-compound-slider): React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
+- [react-selected](https://github.com/jxom/react-selected): React component to build flexible and accessible radio buttons/elements.
 
 ### Data
 
@@ -105,6 +106,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props" 🕶
 - [react-render-fam](https://github.com/danieldelcore/react-render-fam): Lit components for conditional rendering in React
 - [react-power-picture](https://github.com/tvthatsme/react-power-picture): Progressively load an image srcset for maximum responsiveness and performance
+- [react-t-minus](https://github.com/jxom/react-t-minus): A React component to handle simple countdowns.
 
 ### React Native
 
