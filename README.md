@@ -107,6 +107,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-render-fam](https://github.com/danieldelcore/react-render-fam): Lit components for conditional rendering in React
 - [react-power-picture](https://github.com/tvthatsme/react-power-picture): Progressively load an image srcset for maximum responsiveness and performance
 - [react-t-minus](https://github.com/jxom/react-t-minus): A React component to handle simple countdowns.
+- [react-sizeme](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width and height!
 
 ### React Native
 
