@@ -50,6 +50,7 @@ Awesome list of React components with render props and resources.
 changes for the Form and Field. Also first-class support for re-usable FieldWraps
 - [React Form](https://github.com/react-tools/react-form): Simple, powerful, highly composable forms in React
 - [react-uncontrolled-form](https://github.com/ericvaladas/react-uncontrolled-form): Forms with validation using uncontrolled fields in React
+- [React Form Validation](https://github.com/semmiverian/react-form-validation): Forms Validation with built in rules for validating your input.
 
 ### Inputs
 
