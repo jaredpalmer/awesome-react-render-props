@@ -70,7 +70,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
 - [react-request](https://github.com/jmeas/react-request): Declarative HTTP requests for React with request deduplication and response caching
 - [react-senna](https://github.com/collardeau/react-senna): A store component to quickly initiate state and update handlers
-- [react-whisper ☝️😮](https://github.com/arturkulig/react-whisper): Store, Reducer and Actor components for app-wide state management
+- [react-whisper](https://github.com/arturkulig/react-whisper): ☝️😮 Store, Reducer and Actor components for app-wide state management
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 - [statty](https://github.com/vesparny/statty): A tiny and unobtrusive state management library for React and Preact apps
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
