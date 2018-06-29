@@ -25,91 +25,91 @@ Awesome list of React components with render props and resources.
 
 ### Animation
 
-- [react-motion](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
-- [react-move](https://github.com/react-tools/react-move): Beautiful, data-driven animations for React
-- [react-prop-transition](https://github.com/imranolas/react-prop-transition): Transition _almost_ any value over time.
 - [react-morph](https://github.com/brunnolou/react-morph): Morphing Ui transitions made simple
+- [react-move](https://github.com/react-tools/react-move): Beautiful, data-driven animations for React
+- [react-motion](https://github.com/chenglou/react-motion): A spring that solves your animation problems.
+- [react-prop-transition](https://github.com/imranolas/react-prop-transition): Transition _almost_ any value over time.
 - [react-spring](https://github.com/drcmda/react-spring): 🙌 Helping react-motion and animated to become best friends
 
 ### Interaction
 
-- [react-dragtastic](https://github.com/chrisjpatty/react-dragtastic): Declarative drag-and-drop for React
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd): Beautiful, accessible drag and drop for lists with React
+- [react-dragtastic](https://github.com/chrisjpatty/react-dragtastic): Declarative drag-and-drop for React
 
 ### Routing
 
-- [react-router](https://github.com/reacttraining/react-router): Declarative routing for React
 - [@curi/react](https://curi.js.org/packages/@curi/react): Centralized routing with React
+- [react-router](https://github.com/reacttraining/react-router): Declarative routing for React
 
 ### Forms
 
-- [Formik](https://github.com/jaredpalmer/formik): Forms in React, without tears 😭
-- [React Final Form](https://github.com/final-form/react-final-form): 🏁 High performance subscription-based form state management for React
-- [React Attire](https://github.com/gianmarcotoso/react-attire): Minimal state manager that simplifies React form handling
-- [Informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state
+- [formik](https://github.com/jaredpalmer/formik): Forms in React, without tears 😭
+- [informative](https://github.com/bradwestfall/informative): React Forms with ease. Use render-props to broadcast state
 changes for the Form and Field. Also first-class support for re-usable FieldWraps
-- [React Form](https://github.com/react-tools/react-form): Simple, powerful, highly composable forms in React
+- [react-attire](https://github.com/gianmarcotoso/react-attire): Minimal state manager that simplifies React form handling
+- [react-final-form](https://github.com/final-form/react-final-form): 🏁 High performance subscription-based form state management for React
+- [react-form](https://github.com/react-tools/react-form): Simple, powerful, highly composable forms in React
+- [react-form-validation](https://github.com/semmiverian/react-form-validation): Forms Validation with built in rules for validating your input.
 - [react-uncontrolled-form](https://github.com/ericvaladas/react-uncontrolled-form): Forms with validation using uncontrolled fields in React
-- [React Form Validation](https://github.com/semmiverian/react-form-validation): Forms Validation with built in rules for validating your input.
 
 ### Inputs
 
-- [Downshift](https://github.com/paypal/downshift): 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
-- [react-toggled](https://github.com/kentcdodds/react-toggled): Component to build simple, flexible, and accessible toggle components
-- [@navjobs/upload](https://github.com/navjobs/upload): Higher order React components for file uploading (with progress) react file upload
-- [Dayzed](https://github.com/deseretdigital/dayzed): Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
+- [dayzed](https://github.com/deseretdigital/dayzed): Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components
+- [downshift](https://github.com/paypal/downshift): 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
 - [react-compound-slider](https://github.com/sghall/react-compound-slider): React Compound Slider is a tiny (5kb) slider component with no opinion about markup or styles
 - [react-selected](https://github.com/jxom/react-selected): React component to build flexible and accessible radio buttons/elements.
+- [react-toggled](https://github.com/kentcdodds/react-toggled): Component to build simple, flexible, and accessible toggle components
+- [@navjobs/upload](https://github.com/navjobs/upload): Higher order React components for file uploading (with progress) react file upload
 
 ### Data
 
-- [react-apollo](https://github.com/apollographql/react-apollo): ♻️ React integration for Apollo Client
-- [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
+- [constate](https://github.com/diegohaz/constate): React context + state = constate
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
-- [react-request](https://github.com/jmeas/react-request): Declarative HTTP requests for React with request deduplication and response caching
+- [react-apollo](https://github.com/apollographql/react-apollo): ♻️ React integration for Apollo Client
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
+- [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
+- [react-request](https://github.com/jmeas/react-request): Declarative HTTP requests for React with request deduplication and response caching
+- [react-senna](https://github.com/collardeau/react-senna): A store component to quickly initiate state and update handlers
+- [react-whisper](https://github.com/arturkulig/react-whisper): ☝️😮 Store, Reducer and Actor components for app-wide state management
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 - [statty](https://github.com/vesparny/statty): A tiny and unobtrusive state management library for React and Preact apps
-- [react-localforage](https://github.com/tkh44/react-localforage): Declarative localForage in React
-- [react-senna](https://github.com/collardeau/react-senna): A store component to quickly initiate state and update handlers
-- [constate](https://github.com/diegohaz/constate): React context + state = constate
-- [react-whisper ☝️😮](https://github.com/arturkulig/react-whisper): Store, Reducer and Actor components for app-wide state management
+- [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
 
 ### Misc
 
 - [nuka-carousel](https://github.com/FormidableLabs/nuka-carousel): React Carousel Component
-- [react-fns](https://github.com/jaredpalmer/react-fns): Browser API's turned into declarative React components and HoC's
-- [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
-- [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide `value` and `onChange` props with state.
-- [react-redux-local](https://github.com/imflavio/react-redux-local): Simple local reducer with middleware/sagas/redux-dev-tools support.
-- [react-powerplug](https://github.com/renatorib/react-powerplug): Renderless Pluggable State Containers
-- [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
-- [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image): React component for progressive image loading
-- [react-device-battery](https://github.com/zanonnicola/react-device-battery): 🔋 Notifies your React App of the device battery status
-- [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
+- [react-adopt](https://github.com/pedronauck/react-adopt): 😎 Compose render props components like a pro.
+- [react-albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards).
+- [react-composer](https://github.com/jmeas/react-composer): Compose render prop components
 - [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
-- [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
-- [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
-- [render-props-compose](https://github.com/gnapse/render-props-compose): Compose several nested render prop components into one
-- [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
+- [react-device-battery](https://github.com/zanonnicola/react-device-battery): 🔋 Notifies your React App of the device battery status
+- [react-fns](https://github.com/jaredpalmer/react-fns): Browser API's turned into declarative React components and HoC's
 - [react-gizmo](https://github.com/KadoBOT/react-gizmo): UI Finite State Machine for React
 - [react-geolocation](https://github.com/tkh44/react-geolocation): Declarative geolocation in React
-- [react-composer](https://github.com/jmeas/react-composer): Compose render prop components
-- [react-sentinel](https://github.com/YurkaninRyan/react-sentinel): Abstracts away requestAnimationFrame, allowing you to poll anything for props
-- [react-albus](https://github.com/americanexpress/react-albus): React component library for building declarative multi-step flows (wizards).
-- [react-pro-metronome](https://github.com/rigobauer/react-pro-metronome): React component for creating your own metronome
-- [react-with-async-fonts](https://github.com/sergeybekrin/react-with-async-fonts): Module for dealing with custom web fonts
-- [@tedconf/react-show-more](https://github.com/tedconf/react-show-more): A Unopinionated component to handle showing more items
-- [react-treefold](https://github.com/gnapse/react-treefold): A renderless tree component for your hierarchical React views
-- [@danwang/retainer](https://github.com/danwang/retainer): Compose render prop components by lifting computation into containers
+- [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
 - [react-google-calendar-events-list](https://github.com/VinSpee/react-gcal-events-list): React component which retrieves events from a google calendar.
-- [react-adopt](https://github.com/pedronauck/react-adopt): 😎 Compose render props components like a pro.
-- [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props" 🕶
-- [react-render-fam](https://github.com/danieldelcore/react-render-fam): Lit components for conditional rendering in React
-- [react-power-picture](https://github.com/tvthatsme/react-power-picture): Progressively load an image srcset for maximum responsiveness and performance
-- [react-t-minus](https://github.com/jxom/react-t-minus): A React component to handle simple countdowns.
-- [react-sizeme](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width and height!
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer): Monitor when an element enters or leaves the browser viewport.
+- [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
+- [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
+- [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props" 🕶
+- [react-pro-metronome](https://github.com/rigobauer/react-pro-metronome): React component for creating your own metronome
+- [react-progressive-image](https://github.com/FormidableLabs/react-progressive-image): React component for progressive image loading
+- [react-power-picture](https://github.com/tvthatsme/react-power-picture): Progressively load an image srcset for maximum responsiveness and performance
+- [react-powerplug](https://github.com/renatorib/react-powerplug): Renderless Pluggable State Containers
+- [react-redux-local](https://github.com/imflavio/react-redux-local): Simple local reducer with middleware/sagas/redux-dev-tools support.
+- [react-render-fam](https://github.com/danieldelcore/react-render-fam): Lit components for conditional rendering in React
+- [react-sentinel](https://github.com/YurkaninRyan/react-sentinel): Abstracts away requestAnimationFrame, allowing you to poll anything for props
+- [react-sizeme](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width and height!
+- [@tedconf/react-show-more](https://github.com/tedconf/react-show-more): A Unopinionated component to handle showing more items
+- [react-t-minus](https://github.com/jxom/react-t-minus): A React component to handle simple countdowns.
+- [react-treefold](https://github.com/gnapse/react-treefold): A renderless tree component for your hierarchical React views
+- [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
+- [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide `value` and `onChange` props with state.
+- [react-with-async-fonts](https://github.com/sergeybekrin/react-with-async-fonts): Module for dealing with custom web fonts
+- [@danwang/retainer](https://github.com/danwang/retainer): Compose render prop components by lifting computation into containers
+- [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
+- [render-props-compose](https://github.com/gnapse/render-props-compose): Compose several nested render prop components into one
+- [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
 
 ### React Native
 
