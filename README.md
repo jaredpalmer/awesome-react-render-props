@@ -88,6 +88,7 @@ changes for the Form and Field. Also first-class support for re-usable FieldWrap
 - [react-geolocation](https://github.com/tkh44/react-geolocation): Declarative geolocation in React
 - [react-google-maps-loader](https://github.com/xuopled/react-google-maps-loader): Simple loader to use google maps services
 - [react-google-calendar-events-list](https://github.com/VinSpee/react-gcal-events-list): React component which retrieves events from a google calendar.
+- [@foes/react-i18n-routing](https://github.com/FriendsOfECMAScript/ReactI18nRouting): 🌐 Missing i18n components and functions to bridge react-router and react-intl
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer): Monitor when an element enters or leaves the browser viewport.
 - [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
