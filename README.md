@@ -88,6 +88,7 @@ Awesome list of React components with render props and resources.
 - [statty](https://github.com/vesparny/statty): A tiny and unobtrusive state management library for React and Preact apps
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
+- [react-values](https://github.com/ianstormtaylor/react-values): ✨ A set of tiny, composable React components for handling state with render props.
 
 ### Media
 
