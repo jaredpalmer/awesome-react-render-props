@@ -121,7 +121,7 @@ Awesome list of React components with render props and resources.
 - [@tedconf/react-show-more](https://github.com/tedconf/react-show-more): A Unopinionated component to handle showing more items
 - [react-treefold](https://github.com/gnapse/react-treefold): A renderless tree component for your hierarchical React views
 - [react-useragent](https://github.com/jonstuebe/react-useragent): Retrieve user agent data through render props
-- [react-virtual-container(https://github.com/ctrlplusb/react-virtual-container): Optimise your React apps by only rendering components when in proximity to the viewport.
+- [react-virtual-container](https://github.com/ctrlplusb/react-virtual-container): Optimise your React apps by only rendering components when in proximity to the viewport.
 
 ### React Native
 
