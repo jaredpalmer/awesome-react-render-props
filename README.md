@@ -82,13 +82,13 @@ Awesome list of React components with render props and resources.
 - [react-request](https://github.com/jmeas/react-request): Declarative HTTP requests for React with request deduplication and response caching
 - [react-senna](https://github.com/collardeau/react-senna): A store component to quickly initiate state and update handlers
 - [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide `value` and `onChange` props with state.
+- [react-values](https://github.com/ianstormtaylor/react-values): ✨ A set of tiny, composable React components for handling state with render props.
 - [react-whisper](https://github.com/arturkulig/react-whisper): ☝️😮 Store, Reducer and Actor components for app-wide state management
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 - [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
 - [statty](https://github.com/vesparny/statty): A tiny and unobtrusive state management library for React and Preact apps
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
-- [react-values](https://github.com/ianstormtaylor/react-values): ✨ A set of tiny, composable React components for handling state with render props.
 
 ### Media
 
