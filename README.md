@@ -35,6 +35,7 @@ Awesome list of React components with render props and resources.
 
 - [react-adopt](https://github.com/pedronauck/react-adopt): 😎 Compose render props components like a pro.
 - [react-composer](https://github.com/jmeas/react-composer): Compose render prop components
+- [react-gearbox](https://github.com/theKashey/react-gearbox): Compose headless containers and put them into context
 - [render-props-compose](https://github.com/gnapse/render-props-compose): Compose several nested render prop components into one
 - [@danwang/retainer](https://github.com/danwang/retainer): Compose render prop components by lifting computation into containers
 
@@ -102,6 +103,7 @@ Awesome list of React components with render props and resources.
 - [react-pro-metronome](https://github.com/rigobauer/react-pro-metronome): React component for creating your own metronome
 - [react-sentinel](https://github.com/YurkaninRyan/react-sentinel): Abstracts away requestAnimationFrame, allowing you to poll anything for props
 - [react-t-minus](https://github.com/jxom/react-t-minus): A React component to handle simple countdowns.
+- [react-queue](https://github.com/theKashey/react-queue): A declarative task queue.
 
 ### Misc
 
@@ -115,6 +117,7 @@ Awesome list of React components with render props and resources.
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer): Monitor when an element enters or leaves the browser viewport.
 - [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
+- [react-media-match](https://github.com/thearnica/react-media-match): Mobile-first media queries for React
 - [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props"
 - [react-render-fam](https://github.com/danieldelcore/react-render-fam): Lit components for conditional rendering in React
 - [react-sizeme](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width and height!
