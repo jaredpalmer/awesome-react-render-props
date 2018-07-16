@@ -101,9 +101,9 @@ Awesome list of React components with render props and resources.
 ### Scheduling
 
 - [react-pro-metronome](https://github.com/rigobauer/react-pro-metronome): React component for creating your own metronome
+- [react-queue](https://github.com/theKashey/react-queue): A declarative task queue.
 - [react-sentinel](https://github.com/YurkaninRyan/react-sentinel): Abstracts away requestAnimationFrame, allowing you to poll anything for props
 - [react-t-minus](https://github.com/jxom/react-t-minus): A React component to handle simple countdowns.
-- [react-queue](https://github.com/theKashey/react-queue): A declarative task queue.
 
 ### Misc
 
