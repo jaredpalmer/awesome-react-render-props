@@ -12,6 +12,7 @@ Awesome list of React components with render props and resources.
 - [Unit test a React Render Prop component](https://egghead.io/lessons/react-unit-test-a-react-render-prop-component) 💲 by [Andrew Del Prete](https://twitter.com/andrewdelprete)
 - [Integration test a React component that consumes a Render Prop](https://egghead.io/lessons/react-integration-test-a-react-component-that-consumes-a-render-prop) 💲 by [Andrew Del Prete](https://twitter.com/andrewdelprete)
 - [Compose render prop components with React Adopt](https://egghead.io/lessons/react-compose-render-prop-components-with-react-adopt) by [Andrew Del Prete](https://twitter.com/andrewdelprete)
+- [Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc) by [Michael Jackson](https://twitter.com/mjackson)
 
 ## Blog Posts / Articles
 
