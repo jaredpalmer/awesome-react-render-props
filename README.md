@@ -74,6 +74,7 @@ Awesome list of React components with render props and resources.
 - [constate](https://github.com/diegohaz/constate): React context + state = constate
 - [holen](https://github.com/tkh44/holen): Declarative fetch for React
 - [react-apollo](https://github.com/apollographql/react-apollo): ♻️ React integration for Apollo Client
+- [react-aqueduct](https://github.com/kserjey/react-aqueduct): Declarative HTTP requests components
 - [react-data-sort](https://github.com/corjen/react-data-sort): React component for sorting, paginating and searching data
 - [react-firestore](https://github.com/green-arrow/react-firestore): Render prop components to fetch Firestore collections and documents
 - [react-gizmo](https://github.com/KadoBOT/react-gizmo): UI Finite State Machine for React
