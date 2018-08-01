@@ -43,6 +43,7 @@ Awesome list of React components with render props and resources.
 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd): Beautiful, accessible drag and drop for lists with React
 - [react-dragtastic](https://github.com/chrisjpatty/react-dragtastic): Declarative drag-and-drop for React
+- [stickyard](https://github.com/nihgwu/stickyard): Make your component sticky the easy way
 
 ### Routing
 
