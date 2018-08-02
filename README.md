@@ -89,6 +89,7 @@ Awesome list of React components with render props and resources.
 - [react-whisper](https://github.com/arturkulig/react-whisper): ☝️😮 Store, Reducer and Actor components for app-wide state management
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 - [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
+- [repromised](https://github.com/axross/repromised): Declarative promise resolver
 - [statty](https://github.com/vesparny/statty): A tiny and unobtrusive state management library for React and Preact apps
 - [unstated](https://github.com/thejameskyle/unstated): Share state between components with the same stateful component API
 - [urql](https://github.com/FormidableLabs/urql): Universal React Query Library
