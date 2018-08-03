@@ -87,6 +87,7 @@ Awesome list of React components with render props and resources.
 - [react-value](https://github.com/JedWatson/react-value): An easy easy way to wrap controlled components that provide `value` and `onChange` props with state.
 - [react-values](https://github.com/ianstormtaylor/react-values): ✨ A set of tiny, composable React components for handling state with render props.
 - [react-whisper](https://github.com/arturkulig/react-whisper): ☝️😮 Store, Reducer and Actor components for app-wide state management
+- [redebounce](https://github.com/axross/redebounce): debouncing the given value
 - [redux-box](https://github.com/anish000kumar/redux-box): Modular and easy-to-grasp redux based state management, with least boilerplate
 - [redux-render](https://github.com/jsonnull/redux-render): Ergonomic Redux bindings for React using render props
 - [repromised](https://github.com/axross/repromised): Declarative promise resolver
