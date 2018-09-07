@@ -121,6 +121,7 @@ Awesome list of React components with render props and resources.
 - [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
 - [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props"
+- [react-render-callback](https://github.com/sastan/react-render-callback): Implement "render props" in your components to render anything
 - [react-render-fam](https://github.com/danieldelcore/react-render-fam): Lit components for conditional rendering in React
 - [react-sizeme](https://github.com/ctrlplusb/react-sizeme): Make your React Components aware of their width and height!
 - [@tedconf/react-show-more](https://github.com/tedconf/react-show-more): A Unopinionated component to handle showing more items
