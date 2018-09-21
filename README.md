@@ -119,6 +119,7 @@ Awesome list of React components with render props and resources.
 - [@foes/react-i18n-routing](https://github.com/FriendsOfECMAScript/ReactI18nRouting): 🌐 Missing i18n components and functions to bridge react-router and react-intl
 - [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer): Monitor when an element enters or leaves the browser viewport.
 - [react-loads](https://github.com/jxom/react-loads): A simple React component to handle loading state
+- [react-matrix-text](https://github.com/jkomyno/react-matrix-text): Simple UI component that splits and renders a text in a given number of columns using the "render props" pattern.
 - [react-media](https://github.com/reacttraining/react-media): CSS media queries for React
 - [react-pledge](https://github.com/petergombos/react-pledge): Declarative way to track promise lifecycle states using "render props"
 - [react-render-callback](https://github.com/sastan/react-render-callback): Implement "render props" in your components to render anything
